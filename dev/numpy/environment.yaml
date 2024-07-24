@@ -1,0 +1,10 @@
+name: numpy
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - pandas=2.2.2 # https://anaconda.org/conda-forge/pandas/files
+  - scipy=1.13.1 # https://anaconda.org/conda-forge/scipy/files
+  - numpy=2.0.0 # https://anaconda.org/conda-forge/numpy/files
+  - jupyterlab

@@ -1,0 +1,6 @@
+numpy==2.0.0
+scipy==1.14.0
+pandas==2.2.2
+#bw2data==4.0.dev43
+#bw2io==0.9.dev28
+#bw2calc==2.0.dev17
